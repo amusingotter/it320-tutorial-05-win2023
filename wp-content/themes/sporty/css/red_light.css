@@ -1,0 +1,78 @@
+/**
+ * @package sporty
+ * @since sporty 1.0
+ * inspired by: http://www.colourlovers.com/palette/59489/Kotaku
+ *
+ *
+ */
+#wrap {
+	border-top: 8px solid #CC0000;
+}
+
+.main-navigation li.current_page_item, #main-navigation li.current-menu-parent,
+.menu-top-menu-container .current-menu-item {
+    background: #CC0000;
+}
+.main-navigation li:hover a{
+	background-color: #CC0000;
+}
+.main-navigation > li > a, .main-navigation li.current_page_ancestor a {
+	background-color: #CC0000;
+}
+.main-navigation li.current_page_item,  #main-navigation li.current-menu-parent{background: #CC0000;}
+.main-navigation li.current_page_item:hover a,#main-navigation li.current_page_item:hover{background: #CC0000;}
+.main-navigation li.current-menu-parent:hover > a{background: #CC0000!important;}
+.main-navigation li.current-menu-parent ul.sub-menu li.current_page_item {background-color: #CC0000!important;}
+
+.main-navigation ul ul li a:hover,#main-navigation ul ul li a:hover i, .main-navigation li.current-menu-parent ul.sub-menu li.current_page_item a   {
+	color: #CC0000!important;
+}
+
+.sticky h1{
+	border-bottom: 6px solid #CC0000;
+}
+.stickymore a:hover{
+	color: #CC0000;
+}
+.featuretext_top {
+	background-color: #CC0000;
+}
+.featuretext_top h3{
+	color: #FFF;
+}
+.site-footer {
+	border-top: 4px solid #CC0000;
+}
+.entry-content a, .entry-content a:visited, .entry-summary a, .entry-summary a:visited{
+    color: #CC0000;
+}
+.main-small-navigation li:hover > a,
+.main-small-navigation li.current_page_item a,
+.main-small-navigation li.current-menu-item a,
+.main-small-navigation ul ul a:hover {
+	color: #CC0000;
+}
+.home_widget h4 {
+    border-bottom: 7px solid #CC0000;
+}
+.widget-title {
+    border-bottom: 7px solid #CC0000;
+}
+.flex-caption-title {
+    border-bottom: 1px solid #CC0000;
+}
+.site-title a{
+	color: #222;
+}
+.site-description {
+	color: #CC0000;
+}
+header#masthead {
+    background: #FFF;
+}
+.main-navigation {
+    border-top: 0;
+}
+#wrap {
+    background-color: #fff;
+}

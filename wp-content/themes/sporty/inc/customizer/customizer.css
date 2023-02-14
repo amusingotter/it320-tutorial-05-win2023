@@ -1,0 +1,32 @@
+/* Pro Message in Customizer */
+.sporty-customize-plus,
+.sporty-customize-plus:hover,
+.sporty-customize-plus:focus{
+	background: rgb(204, 75, 75);
+	color: #fff;
+	text-align: center;
+	padding: 0.2em 0.7em;
+	display: inline-block;
+	margin: 1em 0 2em;
+}
+.sporty-customize-plus:after{
+	content: "➚";
+	padding-left: 0.5em;
+}
+
+#accordion-section-sporty_pro h3.accordion-section-title,
+#accordion-section-sporty_pro.control-section-default.open h3.accordion-section-title,
+#customize-theme-controls #accordion-section-sporty_pro h3.accordion-section-title:focus{
+	background: #0a4d6d;
+	color: #fff;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+#accordion-section-sporty_pro h3.accordion-section-title:after,
+#accordion-section-sporty_pro.control-section-default.open h3.accordion-section-title:after,
+#customize-theme-controls #accordion-section-sporty_pro h3.accordion-section-title:focus:after{
+	color:#fff;
+}

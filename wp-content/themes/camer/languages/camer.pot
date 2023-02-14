@@ -1,0 +1,1258 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Camer\n"
+"POT-Creation-Date: 2019-02-06 02:04-0800\n"
+"PO-Revision-Date: 2018-10-07 02:09-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+#: 404.php:27
+msgid "Our Apologies. The page requested cannot be found."
+msgstr ""
+
+#: 404.php:30
+msgid ""
+"It appears we messed up somewhere with a broken link or the page has been "
+"removed from our website."
+msgstr ""
+
+#: 404.php:34
+msgid "Return Home"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:76
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:101
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:106
+msgid "* Message"
+msgstr ""
+
+#: comments.php:111
+msgid "* Name)"
+msgstr ""
+
+#: comments.php:115
+msgid "* Email"
+msgstr ""
+
+#: comments.php:119
+msgid "Website"
+msgstr ""
+
+#: comments.php:122
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: footer.php:52
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:53
+msgid "Y"
+msgstr ""
+
+#: footer.php:56
+msgid "All rights reserved."
+msgstr ""
+
+#: footer.php:63
+msgid "Camer theme designed by "
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:64
+msgid "https://www.bloggingthemestyles.com"
+msgstr ""
+
+#. Author of the plugin/theme
+#: footer.php:65
+msgid "Blogging Theme Styles"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Top Social Icon Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Footer Social Text Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:126
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:192
+msgid "Menu"
+msgstr ""
+
+#: functions.php:228
+msgctxt "Name of the accent color in the Gutenberg palette"
+msgid "Accent"
+msgstr ""
+
+#: functions.php:233
+msgctxt "Name of the dark grey color in the Gutenberg palette"
+msgid "Dark Grey"
+msgstr ""
+
+#: functions.php:238
+msgctxt "Name of the medium grey color in the Gutenberg palette"
+msgid "Medium Grey"
+msgstr ""
+
+#: functions.php:243
+msgctxt "Name of the light grey color in the Gutenberg palette"
+msgid "Light Grey"
+msgstr ""
+
+#: functions.php:248
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr ""
+
+#: image.php:48
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:51
+msgid "Next Image"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/back-compat.php:29 inc/back-compat.php:40 inc/back-compat.php:54
+#, php-format
+msgid ""
+"Camer requires at least WordPress version 4.7. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:34
+#: inc/theme-info/camer-info.php:119
+msgid "Camer Pro"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:36
+msgid ""
+"If you decide to upgrade to the pro version of this theme, use this discount "
+"code on checkout."
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:37
+msgid "Upgrade to Pro (Save $5)"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:37
+msgid "Use Code:"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:37
+#: inc/theme-info/camer-info.php:41
+msgid "SAVEFIVE"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:38
+msgid "Get the Pro - Save $5"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:41
+msgid "Pro Features:"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:43
+msgid "&bull; 6 Blog Styles"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:44
+msgid "&bull; 15 Dynamic Sidebar Positions"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:45
+msgid "&bull; 3 Header Styles"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:46
+msgid "&bull; 7 Page Templates - Including Front Pages"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:47
+msgid "&bull; Stylish Full Splash Page with Randomized Photos"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:48
+msgid "&bull; 3 Full Post Layouts"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:49
+msgid "&bull; Adjustable Content Widths"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:50
+msgid "&bull; Thumbnail Creation for the Blogs"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:51
+msgid "&bull; An About Me Widget"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:52
+msgid "&bull; A Social Links Widget"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:53
+msgid "&bull; Full Post Featured Image Banners with Title Overlay"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:54
+msgid "&bull; Add Photo Captions to Featured Image Banners"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:55
+msgid "&bull; 1 Click Demo Content Import"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:56
+msgid "&bull; Featured Image Captions for Posts"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:57
+msgid "&bull; Customize the Read More Button Text"
+msgstr ""
+
+#: inc/customizer/controls/upgrade-control.php:58
+msgid "&bull; Premium Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:19 inc/theme-info/camer-info.php:245
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:24
+msgid "Page Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Show Site Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "Show Tagline"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:19
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:27
+msgid "Basic Options"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:39
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:40
+msgid "Add a footer logo."
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:53
+msgid "Copyright Name"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:66
+msgid "Show the Design By Credit Line"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:74
+msgid "WP Gallery Options"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:88
+msgid "Enable Gallery View Comments"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:96
+msgid "Default Google Fonts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:105
+msgid ""
+"This theme has a couple Google Fonts included. If you choose to use a plugin "
+"for different fonts, you can disable them."
+msgstr ""
+
+#: inc/customizer/sections/customizer-basic.php:110
+msgid "Enable the Default Google Fonts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:19
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:32
+msgid "Display Blog Title Group"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:45
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:64
+msgid "Blog Description"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:83
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:88
+msgid "Default Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:89
+msgid "Default Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:90
+msgid "Photowall Full Width"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:102
+msgid "Blog Summary Type"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:103
+msgid ""
+"This will let you choose to use excerpts for your blog summaries. This is "
+"for the Large and Standard default blog layouts."
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:108
+msgid "Post Summary"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:109
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:120
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:150
+msgid "Show Featured Label"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:158
+msgid "Customize Archive Titles"
+msgstr ""
+
+#: inc/customizer/sections/customizer-blog.php:170
+msgid ""
+"Show or hide the archive heading labels like Category:  or Tags: that show "
+"just before the names. Default is enabled to hide the label."
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:25
+msgid "Site Title Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:37
+msgid "Site Tagline Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:49
+msgid "Gutenberg Accent Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:50
+msgid "This is your accent colour when using the Gutenberg editor."
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:61
+msgid "First Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:62
+msgid "This is the blue colour."
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:73
+msgid "Second Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:74
+msgid "This is the dark grey colour."
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:85
+msgid "Third Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:86
+msgid "This is a medium grey colour; used mostly for grey text."
+msgstr ""
+
+#: inc/customizer/sections/customizer-colours.php:97
+msgid "Dropcap Colour"
+msgstr ""
+
+#: inc/customizer/sections/customizer-layout.php:20
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-layout.php:35
+msgid "Page Width"
+msgstr ""
+
+#: inc/customizer/sections/customizer-layout.php:36
+msgid ""
+"Adjust the overall page width to give a boxed layout that shows the page "
+"background. Min width is 960px while the max width is 2560px."
+msgstr ""
+
+#: inc/customizer/sections/customizer-layout.php:55
+msgid "Banner Width"
+msgstr ""
+
+#: inc/customizer/sections/customizer-layout.php:56
+msgid ""
+"Adjust the width of the banner sidebar area. This only gets applied in "
+"desktop viewing. Min width is 960px while the max width is 2560px."
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:33
+msgid "Post Featured Image Banners"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:47
+msgid "Display the Post Regular Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:60
+msgid "Display the Post Featured Image as Banner"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:72
+msgid "Display the Post Featured Banner as Parallax View"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:80
+msgid "Page Featured Image Banners"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:94
+msgid "Display the Page Regular Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:106
+msgid "Display the Page Featured Image as Banner"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:118
+msgid "Display the Page Featured Banner as Parallax View"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:126
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:140
+msgid "Display All Meta Info"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:153
+msgid "Display Author Avatar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:166
+msgid "Display categories"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:179
+msgid "Display tags"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:192
+msgid "Display Related Posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:205
+msgid "Display previous/next post navigation"
+msgstr ""
+
+#: inc/customizer/sections/customizer-pro-upgrade.php:19
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer/sections/customizer-pro-upgrade.php:29
+msgid "Get The Pro Version:"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:28
+msgid "Display Slider"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:41
+msgid "Display the Slider"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:56
+msgid "Choose a category"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:57
+msgid ""
+"Choose your category to load slides from. Make sure your posts have featured "
+"images and we recommend also that you create a special category just for "
+"featured slide posts."
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:72
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:73
+msgid ""
+"Choose the number of slides you want to display when showing the Latest "
+"Posts option."
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:91
+msgid "Slider Excerpt Size"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:92
+msgid ""
+"This lets you choose how many words to show in your slide excerpt from 4 to "
+"20 words. Default is 10."
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:104
+msgid "Display Slider Elements"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Display the Slide Title"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:130
+msgid "Display the Slide Excerpt"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:143
+msgid "Display the Slide Read More"
+msgstr ""
+
+#: inc/customizer/sections/customizer-thumbnails.php:19
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-thumbnails.php:27
+msgid "Crop Blog Featured Images"
+msgstr ""
+
+#: inc/customizer/sections/customizer-thumbnails.php:40
+msgid "Crop featured images for the standard (default) blog Layout"
+msgstr ""
+
+#: inc/customizer/sections/customizer-thumbnails.php:52
+msgid "Crop featured images for the Photowall Blog Layout"
+msgstr ""
+
+#: inc/post-slider.php:99
+msgid "Read More"
+msgstr ""
+
+#: inc/post-slider.php:111
+msgid "Previous"
+msgstr ""
+
+#: inc/post-slider.php:114
+msgid "Next"
+msgstr ""
+
+#: inc/related-posts.php:14
+msgid "You may also like these articles"
+msgstr ""
+
+#: inc/related-posts.php:30
+msgid "related-post"
+msgstr ""
+
+#: inc/sidebars.php:14
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:16
+msgid "Sidebar for your blog and archives."
+msgstr ""
+
+#: inc/sidebars.php:23
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:25
+msgid "Right sidebar for your pages."
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:34
+msgid "Left sidebar for your pages."
+msgstr ""
+
+#: inc/sidebars.php:42
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:44
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:52
+msgid "Content Top 1"
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Content Top 1 position"
+msgstr ""
+
+#: inc/sidebars.php:61
+msgid "Content Top 2"
+msgstr ""
+
+#: inc/sidebars.php:63
+msgid "Content Top 2 position"
+msgstr ""
+
+#: inc/sidebars.php:70
+msgid "Content Top 3"
+msgstr ""
+
+#: inc/sidebars.php:72
+msgid "Content Top 3 position"
+msgstr ""
+
+#: inc/sidebars.php:79
+msgid "Content Top 4"
+msgstr ""
+
+#: inc/sidebars.php:81
+msgid "Content Top 4 position"
+msgstr ""
+
+#: inc/sidebars.php:89
+msgid "Content Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:91
+msgid "Content Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:98
+msgid "Content Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:100
+msgid "Content Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:107
+msgid "Content Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Content Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:116
+msgid "Content Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:118
+msgid "Content Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:125
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:127
+msgid ""
+"For adding breadcrumb navigation if using a plugin, or you can add content "
+"here."
+msgstr ""
+
+#: inc/template-functions.php:147
+msgid "Read More&hellip;"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:75
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgctxt "Used before post author name."
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Comment"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:130
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:292
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:304
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %s: Name of tag
+#: inc/template-tags.php:326
+#, php-format
+msgid "Articles with %s"
+msgstr ""
+
+#. translators: %s: Name of author
+#: inc/template-tags.php:330
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#. translators: %s: Name of year
+#: inc/template-tags.php:334
+#, php-format
+msgid "Articles from: %s"
+msgstr ""
+
+#: inc/template-tags.php:334
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. translators: %s: Name of month
+#. translators: %s: Name of day
+#: inc/template-tags.php:338 inc/template-tags.php:342
+#, php-format
+msgid "Articles from %s"
+msgstr ""
+
+#: inc/template-tags.php:338
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:342
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#. translators: %s: Name of archive title
+#: inc/template-tags.php:346
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: %s: Name of title
+#: inc/template-tags.php:352
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:354
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:379
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr ""
+
+#: inc/template-tags.php:380
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr ""
+
+#: inc/template-tags.php:395
+msgctxt "post navigation"
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:396
+msgctxt "post navigation"
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:409
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-info/camer-info-class-about.php:155
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/theme-info/camer-info-class-about.php:497
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/theme-info/camer-info-class-about.php:500
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#. translators: %1$s: menu title under appearance
+#. translators: %1$s: page name
+#: inc/theme-info/camer-info.php:23 inc/theme-info/camer-info.php:25
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#. translators: %1$s: welcome title
+#: inc/theme-info/camer-info.php:27
+#, php-format
+msgid "Welcome to %1$s - v"
+msgstr ""
+
+#. translators: %1$s: welcome content
+#: inc/theme-info/camer-info.php:29
+#, php-format
+msgid ""
+"Introducing %1$s. With full Gutenberg (and Classic) support, you can now "
+"embrace the future of WordPress with the new editor. Camer is a stylish "
+"minimal design concept that was built for photographic bloggers focusing on "
+"image based content. Of course, it's not just for photographers, this theme "
+"is also a great solution for lifestyle, fashion, technological based "
+"websites, and even personal blogging."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:39
+msgid "Upgrade and Save $5"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:40
+msgid "Use coupon at checkout."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:42
+msgid "Get the Pro"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:45
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:46 inc/theme-info/camer-info.php:254
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:47 inc/theme-info/camer-info.php:86
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:48
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:53
+msgid "Setup Documentation"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:54
+msgid ""
+"To help you get started with the initial setup of this theme and to learn "
+"about the various features, you can check out detailed setup documentation."
+msgstr ""
+
+#. translators: %1$s: theme name
+#: inc/theme-info/camer-info.php:56
+#, php-format
+msgid "View %1$s Tutorials"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:63 inc/theme-info/camer-info.php:65
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:64
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:73
+msgid "Using a Child Theme"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:74
+msgid ""
+"If you plan to customize this theme, I recommend looking into using a child "
+"theme. To learn more about child themes and why it's important to use one, "
+"check out the WordPress documentation."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:75
+msgid "Child Themes"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:87
+msgid ""
+"I generally recommend you always read the CHANGELOG before updating so that "
+"you can see what was fixed, changed, deleted, or added to the theme."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:97
+msgid "Free Support"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:99
+msgid ""
+"If you experience any problems, please post your questions to support and we "
+"will be more than happy to help you out."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:100
+msgid "Get Free Support"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:106
+msgid "Common Problems"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:108
+msgid ""
+"For quick answers to the most common problems, you can check out the "
+"tutorials which can provide instant solutions and answers."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:109
+msgid "Get Answers"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:121
+msgid "Get Camer Pro"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:124
+msgid "Gutenberg Ready"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:133
+msgid "Mobile Friendly"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:142
+msgid "Change Accent Colours"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:151
+msgid "Featured Post Slider"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:152
+msgid "Showcase posts from your category of choice."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:160
+msgid "Adjustable Page Width"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:161
+msgid ""
+"If you prefer a boxed layout instead of full width, you can adjust the page "
+"width."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:170
+msgid "Page Background Image"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:179
+msgid "Built-In Social Menu"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:188
+msgid "Show or Hide Elements"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:197
+msgid "Custom Error Page"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:207
+msgid "Blog Styles"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:216
+msgid "Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:225
+msgid "Page Templates"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:235
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:263
+msgid "Stylish Front Page Templates"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:264
+msgid ""
+"This also includes a full browser window photo splash page with random "
+"images."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:272
+msgid "3 Header Styles"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:281
+msgid "3 Full Post Layouts"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:290
+msgid "About Me Widget"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:299
+msgid "Social Links Widget"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:308
+msgid "Adjust Section Widths"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:309
+msgid ""
+"You can adjust the width of your header, banner area, main content, page "
+"content, footer, and more."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:317
+msgid "Blog Thumbnail Creation"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:318
+msgid ""
+"Automatically have post featured images cropped when uploading. You get a "
+"couple with the free version but more with the Pro."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:326
+msgid "Customizable Read More Text"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:327
+msgid "You can change the Read More text to display what you want."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:336
+msgid "1-Click Demo Content Import Compatible"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:337
+msgid "We included the ability to let you import the demo site content."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:345
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:346
+msgid "Enable or disable the theme's own Google fonts if you use a plugin."
+msgstr ""
+
+#: inc/theme-info/camer-info.php:354
+msgid "Custom Styled Archive Titles"
+msgstr ""
+
+#: inc/theme-info/camer-info.php:355
+msgid "We customized the style of archive titles for tags, categories, etc."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:23
+#: inc/widgets/recent-posts-widget.php:29
+msgid "Camer Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:31
+msgid ""
+"A widget that displays your recent posts from all categories or a category "
+"with thumbnails."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:72
+msgid "No Image"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:124
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:129
+msgid "Number of posts to show:"
+msgstr ""
+
+#. translators: %s: for the search keyword
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:17 searchform.php:18
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/post/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/post/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content-single.php:43
+msgid "Posted In"
+msgstr ""
+
+#: template-parts/post/content-single.php:48
+msgid "Tagged"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/post/content.php:43
+#, php-format
+msgid "Read More&hellip;<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Camer"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com/free-wordpress-themes/camer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With full Gutenberg (and Classic) support, you can now embrace the future of "
+"WordPress with the new editor. Camer is a stylish minimal design concept "
+"that was built for photographic bloggers focusing on image based content. Of "
+"course, it’s not just for photographers, this theme is also a great solution "
+"for lifestyle, fashion, technological based websites, and even personal "
+"blogging. Begin with an intuitive designed interface of the theme customizer "
+"with live previews as you make changes, choose your blog layout, show or "
+"hide various page elements, create enhanced content when using the Gutenberg "
+"editor, showcase a featured category with the built-in post slider, or "
+"Really Standout with the option to turn your post featured images into "
+"banners and add photo captions to them. Be sure to check out the About Blogg "
+"under the Appearance admin menu for more information."
+msgstr ""

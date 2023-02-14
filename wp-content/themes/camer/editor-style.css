@@ -1,0 +1,460 @@
+/*--------------------------------------------------------------
+Typographic styles for the post editor
+--------------------------------------------------------------*/
+
+.mceContentBody {
+    color: #737373;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: "Open Sans", "Helvetica Neue", "Segoe UI", sans-serif;
+}
+
+.mceContentBody h1,
+.mceContentBody h2,
+.mceContentBody h3,
+.mceContentBody h4,
+.mceContentBody h5,
+.mceContentBody h6 {
+    font-family: "Open Sans", "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    clear: both;
+    margin: 0 0 1% 0;
+    color: #272c30;
+}
+
+.mceContentBody h1 {
+    font-size: 2rem;
+}
+
+.mceContentBody h2 {
+    font-size: 1.75rem;
+}
+
+.mceContentBody h3 {
+    font-size: 1.5rem;
+}
+
+.mceContentBody h4 {
+    font-size: 1.438rem;
+}
+
+.mceContentBody h5 {
+    font-size: 1.375rem;
+}
+
+.mceContentBody h6 {
+    font-size: 1.25;
+}
+
+.mceContentBody p {
+    margin-bottom: 1.6rem;
+}
+
+/* dropcap */
+.mceContentBody p.has-drop-cap:not(:focus):first-letter {
+    color: #161616;
+    float: left;
+    font-family: "Bell MT", "Times New Roman", serif;
+    font-size: 6.5rem;
+    line-height: 0.68;
+    font-weight: 400;
+    margin: 8px 8px 0 0;
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.mceContentBody img {
+    max-width: 100%;
+}
+
+/* links */
+a {
+    color: #59a9bb;
+}
+
+a:hover {
+    color: #161616;
+}
+
+/* elements */
+.highlight {
+    background: #fff198;
+    padding: 0 6px;
+}
+
+hr {
+    background-color: #e6e6e6;
+    border: 0;
+    height: 2px;
+    margin: 40px auto;
+}
+
+/* blockquotes */
+.mceContentBody blockquote {
+    position: relative;
+    margin: 30px auto;
+    width: 90%;
+    font-style: italic;
+    font-size: 1.125rem;
+}
+
+.mceContentBody blockquote p {
+    margin: 0;
+}
+
+.mceContentBody blockquote cite {
+    color: #9a9a9a;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 1;
+    text-transform: uppercase;
+    display: block;
+    font-style: normal;
+    font-size: 0.75rem;
+    margin-top: 16px;
+}
+
+.mceContentBody blockquote cite:before {
+    content: "\2014";
+}
+
+.mceContentBody blockquote.alignleft {
+    border-right: 5px solid #bcd6dc;
+    padding: 0 20px 0 0;
+}
+
+.mceContentBody blockquote,
+.mceContentBody blockquote.alignright {
+    border-left: 5px solid #bcd6dc;
+    padding: 0 0 0 20px;
+}
+
+/* lists */
+.mceContentBody ul,
+.mceContentBody ol {
+    margin: 0 0 1.5rem 2.5rem;
+    padding: 0;
+}
+
+.mceContentBody ul {
+    list-style: square;
+    line-height: 2;
+}
+
+.mceContentBody ol {
+    list-style: decimal;
+    line-height: 2;
+}
+
+.mceContentBody ul ul,
+.mceContentBody ol ol,
+.mceContentBody ul ol,
+.mceContentBody ol ul {
+    margin: .3em 0 0 1.5em;
+}
+
+/* media */
+.mceContentBody img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* WP Shortcode gallery */
+
+/*--------------------------------------------------------------
+Default  WP Galleries
+--------------------------------------------------------------*/
+
+.gallery a img {
+  border: none;
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+.gallery dd, .gallery figcaption {
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+}
+
+.gallery-item {
+  display: inline-block;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  vertical-align: top;
+}
+
+.gallery-columns-1 .gallery-item {
+  max-width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+  max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+  max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+  max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+  max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+  max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+  max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+  max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+  max-width: 11.11%;
+}
+
+	
+/*--------------------------------------------------------------
+Table Styles
+--------------------------------------------------------------*/
+
+.mceContentBody table {
+    font-size: 18px;
+    margin-bottom: 5%;
+    padding: 0;
+    width: 100%;
+}
+
+.mceContentBody table thead {
+    background: #f2f2f2;
+}
+
+.mceContentBody table thead th {
+    font-weight: bold;
+}
+
+.mceContentBody table td,
+#content table th {
+    padding: 10px;
+}
+
+.mceContentBody table td {
+    border-bottom: solid 1px #f2f2f2;
+}
+
+.mceContentBody table tr:last-child td {
+    border-bottom: none;
+}
+
+.mceContentBody table tr:nth-child(even) {
+    background: #f2f2f2;
+}
+
+/*--------------------------------------------------------------
+Code Styles
+--------------------------------------------------------------*/
+var {
+    font-family: Monaco, Consolas;
+}
+
+code {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    font-size: 1rem;
+    font-size: 0.9375rem;
+    padding: 0 0.5rem;
+}
+
+code,
+pre {
+    background-color: #f7f7f7;
+}
+
+pre {
+    font-size: 0.938rem;
+    margin: 30px auto;
+    position: relative;
+    padding: 30px;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+pre code {
+    padding: 0;
+    background-color: transparent;
+    font-size: 1rem;
+}
+
+/*--------------------------------------------------------------
+Media
+--------------------------------------------------------------*/
+figure {
+    display: inline;
+    position: relative;
+}
+
+figure.aligncenter {
+    display: block;
+}
+
+figure.post-image {
+    display: block;
+}
+
+img,
+video {
+    height: auto;
+    max-width: 100%;
+}
+
+audio {
+    width: 100%;
+}
+
+/*--------------------------------------------------------------
+Alignments
+--------------------------------------------------------------*/
+
+.alignleft {
+    display: inline;
+    float: left;
+    margin: .5em 2em .5em 0;
+}
+
+@media (max-width: 600px) {
+    .alignleft {
+        max-width: 200px;
+        margin-right: 1em;
+    }
+
+    .alignright {
+        max-width: 200px;
+        margin-left: 1em;
+    }
+}
+
+.alignright {
+    display: inline;
+    float: right;
+    margin: .5em 0 1.5em 2em;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 0 auto 1.5em auto;
+}
+
+dl.wp-caption {
+    background: none;
+    border: none;
+}
+
+.wp-caption {
+    margin: .5em 0 1.5em 0;
+    max-width: 100%;
+    text-align: left;
+}
+
+.wp-caption img[class*="wp-image-"] {
+    display: block;
+    margin: 0;
+    max-width: 100%;
+}
+
+.wp-caption-text,
+.gallery-caption,
+.wp-caption-dd {
+    padding: 0;
+    margin-top: 12px;
+    width: 100%;
+    color: #8494A1;
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    padding-left: 10px;
+    border-left: solid 2px #e3eaf0;
+    margin-bottom: 0;
+}
+
+.pull-right,
+.pull-excerpt {
+    float: right;
+    margin: 1% 0 2% 5%;
+    text-align: right;
+}
+
+.pull-left {
+    float: left;
+    margin: 1% 5% 2% 0;
+}
+
+.pull-right,
+.pull-left,
+.pull-excerpt {
+    font-size: 18px;
+    line-height: 1.5;
+    width: 32%;
+    padding: 20px;
+    background: #f2f2f2;
+}
+
+@media screen and (max-width: 786px) {
+
+    .pull-right,
+    .pull-left,
+    .pull-excerpt {
+        font-size: 18px;
+        width: auto;
+        margin: 0 0 5% 0;
+    }
+
+    .pull-excerpt {
+        font-style: 18px;
+    }
+
+    .mceContentBody blockquote p {
+        font-size: 19px;
+        padding-left: 12%;
+    }
+}
+
+.pull-excerpt {
+    font-style: normal;
+    text-align: left;
+    padding-top: 18px;
+    line-height: 1.6;
+    margin-top: 9px;
+}
+
+/*---------------------------------------------------------
+Forms
+---------------------------------------------------------*/
+label {
+    display: block;
+}
+
+.button,
+button {
+    border: solid 1px;
+    border-radius: 3px;
+    background-color: #bcd6dc;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 20px 6px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}

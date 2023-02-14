@@ -1,0 +1,19 @@
+# BEGIN Codeanywhere
+
+# Allow wp-admin in Codeanywhere IDE preview
+Header unset X-Frame-Options
+
+# END Codeanywhere
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
+
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value max_input_time 300

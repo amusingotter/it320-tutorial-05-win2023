@@ -1,0 +1,276 @@
+/* body {direction:rtl;} */
+
+caption, th, td{
+    text-align: right;
+}
+
+ul, ol{
+    margin: 0 0.5em 1.5em 0 ;
+}
+
+ol{
+    margin-right: 1.5em;
+}
+
+ul ul, ol ol, ul ol, ol ul{
+    margin-right: 1.5em;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"]{
+    border-color: #ccc #ccc #bbb #ccc ;
+}
+
+button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover{
+    border-color: #ccc #bbb #aaa #bbb ;
+}
+
+button:focus, html input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus, button:active, html input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active{
+    border-color: #aaa #bbb #bbb #bbb ;
+}
+
+textarea{
+    padding-right: 3px;
+}
+
+.alignleft{
+    float: right;
+    margin-left: 1.5em;
+}
+
+.alignright{
+    float: left;
+    margin-right: 1.5em;
+}
+
+.screen-reader-text:focus{
+    right: 5px;
+}
+
+#calendar_wrap{
+    padding-right: 6px;
+}
+
+.textwidget{
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+#smoothup{
+    left: 20px;
+}
+
+.sp-staff-details dd{
+    margin-right: 0;
+}
+
+#primary{
+    float: right;
+    margin: 0 0 0 -27% ;
+}
+
+#content{
+    margin: 0 0 0 27% ;
+}
+
+#content.fullwidth{
+    margin-left: 0;
+}
+
+#secondary, #tertiary{
+    float: left;
+}
+
+#tertiary{
+    clear: left;
+}
+
+.site-header .site-introduction{
+    float: right;
+}
+
+.site-logo{
+    float: right;
+}
+
+.menu-secondary ul{
+    text-align: left;
+}
+
+.main-navigation{
+    float: right;
+}
+
+.main-navigation ul{
+    margin: 0px 0 0 0 ;
+    padding-right: 12px;
+    float: right;
+}
+
+.main-navigation ul li{
+    float: right;
+}
+
+.main-navigation ul li a{
+    padding: 12px 20px 10px 20px ;
+}
+
+.main-navigation ul li a i{
+    margin-left: 10px;
+}
+
+.main-navigation ul ul{
+    margin-right: 1px;
+}
+
+.main-navigation ul ul li a{
+    border-right: none;
+    border-left: none;
+    text-align: right;
+}
+
+.main-navigation ul ul li{
+    float: right;
+}
+
+.main-navigation ul li:hover ul{
+    right: 0;
+}
+
+.main-navigation ul li li:hover ul{
+    right: 230px;
+}
+
+.main-navigation ul ul li:last-child a{
+    border-left: none;
+}
+
+.main-small-navigation .menu{
+    padding-right: 30px;
+}
+
+.sticky h2 a{
+    border-radius: 0.2em 0.2em 0 0;
+}
+
+.stickymore{
+    text-align: left;
+}
+
+.entry-content table, .comment-content table{
+    border-right-width: 0;
+    margin: 0 0 2.083em -0.083em ;
+    text-align: right;
+}
+
+.entry-content tr th, .entry-content thead th, .comment-content tr th, .comment-content thead th{
+    border-right: 1px solid #d9d9d9;
+}
+
+.entry-content tr td, .comment-content tr td{
+    border-width: 1px 1px 0 0 ;
+}
+
+.entry-content ul li{
+    margin-right: 1em;
+}
+
+.entry-content ol{
+    margin: 0 1.5em 1.5em 0 ;
+}
+
+.format-aside .entry-content{
+    border-right: 4px solid rgba( 0, 0, 0, 0.1 );
+    padding-right: 1em;
+}
+
+.site-content .nav-previous{
+    float: right;
+}
+
+.site-content .nav-next{
+    float: left;
+    text-align: left;
+}
+
+.children{
+    margin: 0 6% 0 0 ;
+}
+
+.commentlist li.comment, .commentlist li.pingback{
+    padding-right: 2.5em;
+}
+
+.comment .avatar{
+    float: right;
+    margin-left: 1.25em;
+}
+
+.comment-content{
+    margin: 1em 4.5em 0 0 ;
+}
+
+.comment .reply{
+    float: left;
+    margin: 0 0 10px 0 ;
+}
+
+#commentform input[type="text"]{
+    margin-right: 0.5em;
+}
+
+@media screen and (max-width: 600px){
+    .site-logo{
+        padding-right: 0;
+    }
+
+}
+
+.social-media{
+    float: left;
+}
+
+.social-media li{
+    float: right;
+}
+
+.home-block .text-area{
+    padding: 1rem 0 1rem 2rem ;
+}
+
+.align-left.home-block .text-area{
+    padding: 1rem 2rem 1rem 0 ;
+}
+
+@media all and (min-width: 700px){
+    .home-block .six{
+        float: right;
+    }
+
+    .home-block .text-area{
+        text-align: right;
+    }
+
+}
+
+.col{
+    float: right;
+    margin: 1% 1.6% 1% 0 ;
+}
+
+.col:first-child{
+    margin-right: 0;
+}
+
+.post-thumbnail{
+    float: right;
+}
+
+.blog-lists-title{
+    float: right;
+    margin-right: 8px;
+}
+
+.blog-lists-content{
+    float: right;
+    margin-right: 8px;
+}

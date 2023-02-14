@@ -1,0 +1,66 @@
+/**
+ * @package sporty
+ * @since sporty 1.0
+ * inspired by: http://www.colourlovers.com/palette/59489/Kotaku
+ *
+ *
+ */
+#wrap {
+	border-top: 8px solid #00B200;
+}
+
+.main-navigation li.current_page_item, #main-navigation li.current-menu-parent,
+.menu-top-menu-container .current-menu-item {
+    background: #00B200;
+}
+.main-navigation li:hover a{
+	background-color: #00B200;
+}
+.main-navigation > li > a, .main-navigation li.current_page_ancestor a {
+	background-color: #00B200;
+}
+.main-navigation li.current_page_item,  #main-navigation li.current-menu-parent{background: #00B200;}
+.main-navigation li.current_page_item:hover a,#main-navigation li.current_page_item:hover{background: #00B200;}
+.main-navigation li.current-menu-parent:hover > a{background: #00B200!important;}
+.main-navigation li.current-menu-parent ul.sub-menu li.current_page_item {background-color: #00B200!important;}
+
+.main-navigation ul ul li a:hover,#main-navigation ul ul li a:hover i, .main-navigation li.current-menu-parent ul.sub-menu li.current_page_item a   {
+	color: #00B200!important;
+}
+
+.sticky h1{
+	border-bottom: 6px solid #00B200;
+}
+.stickymore a:hover{
+	color: #6C9;
+}
+.featuretext_top {
+	background-color: #00B200;
+}
+.featuretext_top h3{
+	color: #FFF;
+}
+.site-footer {
+	border-top: 4px solid #00B200;
+}
+.entry-content a, .entry-content a:visited, .entry-summary a, .entry-summary a:visited{
+    color: #00B200;
+}
+.main-small-navigation li:hover > a,
+.main-small-navigation li.current_page_item a,
+.main-small-navigation li.current-menu-item a,
+.main-small-navigation ul ul a:hover {
+	color: #00B200;
+}
+.home_widget h4 {
+    border-bottom: 7px solid #00B200;
+}
+.widget-title {
+    border-bottom: 7px solid #00B200;
+}
+.flex-caption-title {
+    border-bottom: 1px solid #00B200;
+}
+.site-description {
+	color: #00B200;
+}

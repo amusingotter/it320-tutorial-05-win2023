@@ -1,0 +1,81 @@
+/**
+ * @package sporty
+ * @since sporty 1.0
+ * inspired by: http://www.colourlovers.com/palette/59489/Kotaku
+ *
+ *
+ */
+#wrap {
+	border-top: 8px solid #D4AF37;
+}
+
+.main-navigation li.current_page_item, #main-navigation li.current-menu-parent,
+.menu-top-menu-container .current-menu-item {
+    background: #D4AF37;
+}
+.main-navigation li:hover a{
+	background-color: #D4AF37;
+}
+.main-navigation > li > a, .main-navigation li.current_page_ancestor a {
+	background-color: #D4AF37;
+}
+.main-navigation li.current_page_item,  #main-navigation li.current-menu-parent{background: #D4AF37;}
+.main-navigation li.current_page_item:hover a,#main-navigation li.current_page_item:hover{background: #D4AF37;}
+.main-navigation li.current-menu-parent:hover > a{background: #D4AF37!important;}
+.main-navigation li.current-menu-parent ul.sub-menu li.current_page_item {background-color: #D4AF37!important;}
+
+.main-navigation ul ul li a:hover,#main-navigation ul ul li a:hover i, .main-navigation li.current-menu-parent ul.sub-menu li.current_page_item a   {
+	color: #D4AF37!important;
+}
+
+.sticky h1{
+	border-bottom: 6px solid #D4AF37;
+}
+.stickymore a:hover{
+	color: #D4AF37;
+}
+.featuretext_top {
+	background-color: #D4AF37;
+}
+.featuretext_top h3{
+	color: #FFF;
+}
+.site-footer {
+	border-top: 4px solid #D4AF37;
+}
+.entry-content a, .entry-content a:visited, .entry-summary a, .entry-summary a:visited{
+    color: #D4AF37;
+}
+
+.main-small-navigation li:hover > a,
+.main-small-navigation li.current_page_item a,
+.main-small-navigation li.current-menu-item a,
+.main-small-navigation ul ul a:hover {
+	color: #D4AF37;
+}
+
+.home_widget h4 {
+    border-bottom: 7px solid #D4AF37;
+}
+.widget-title {
+    border-bottom: 7px solid #D4AF37;
+}
+.flex-caption-title {
+    border-bottom: 1px solid #D4AF37;
+}
+
+.site-title a{
+	color: #222;
+}
+.site-description {
+	color: #D4AF37;
+}
+header#masthead {
+    background: #FFF;
+}
+.main-navigation {
+    border-top: 0;
+}
+#wrap {
+    background-color: #fff;
+}

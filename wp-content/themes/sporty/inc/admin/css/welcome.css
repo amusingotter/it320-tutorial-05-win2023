@@ -1,0 +1,31 @@
+.two-col > div {
+  width: 48%;
+  float:left;
+  margin-right: 2%;
+}
+.three-col > div {
+  width: 31.333%;
+  float: left;
+  margin-right: 2%;
+}
+.last-feature {
+  margin-right: 0 !important;
+}
+.tagline{
+  text-align: center;
+  font-size: 18px!important;
+  color: #8c8c8c;
+  margin-bottom: 2em;
+}
+#getting_started h4{
+  font-size: 18px;
+}
+#getting_started .section{
+  margin-bottom: 4em;
+}
+#getting_started .button{
+  margin: 1em 0;
+}
+#getting_started p{
+  padding-bottom: 6px;
+}
